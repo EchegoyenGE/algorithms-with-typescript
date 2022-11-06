@@ -10,6 +10,6 @@ T(n) = 2*T(n/2) + O(n)
 The list size is divided in a max of Log n parts, and the merging of all sublists into a single list takes O(n) time, so the time complexity for all cases (best, worst and avergage) costs O(n*Log(n))
 ### Space complexity 
 
-The insertion sort only use an extra variable called key, so the time complexity is O(1).
+The Merge Sort use an extra array with the length of the initial array, so the space complexity is O(n).
 
  Information: [Insertion Sort - Wikipedia](https://www.programiz.com/dsa/insertion-sort)

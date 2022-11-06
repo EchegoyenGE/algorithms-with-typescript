@@ -7,6 +7,6 @@ The insertion sort employs two loops. The inner loop performs O(n) comparisons. 
 
 ### Space complexity 
 
-The insertion sort only use an extra variable called key, so the time complexity is O(1).
+The insertion sort only use an extra variable called key, so the space complexity is O(1).
 
  Information: [Insertion Sort - Wikipedia](https://www.programiz.com/dsa/insertion-sort)
