@@ -12,4 +12,6 @@ The list size is divided in a max of Log n parts, and the merging of all sublist
 
 The Merge Sort use an extra array with the length of the initial array, so the space complexity is O(n).
 
- Information: [Insertion Sort - Wikipedia](https://www.programiz.com/dsa/insertion-sort)
+ Information: 
+  - [Merge Sort - Digital Ocean](https://www.digitalocean.com/community/tutorials/merge-sort-algorithm-java-c-python)
+  - [Merge Sort - Programiz](https://www.programiz.com/dsa/merge-sort)
